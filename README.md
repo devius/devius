@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @devius
+- 👀 I’m interested in writing code in Dart and Flutter
+- 🌱 I’m currently learning Flutter framework adn PHP
+- 💞️ I’m looking to collaborate with awesome people on some open source project
